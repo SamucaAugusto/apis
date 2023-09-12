@@ -1,0 +1,226 @@
+[
+	{
+		"grupo": "Pinguins",
+		"imagem": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQdAnprsidzbOSZ4jI1SvcFeIEuFKwBLrILGo8tLCEA4ixMzfxUQfk6onBDhipea4sD",
+		"especies": [
+			{
+				"nome": "pinguim-de-humboldt",
+                "comprimento": "56 – 70 cm",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Spheniscus_humboldti_-Berlin_Zoo-8a.jpg",
+				"peso": "4,4 kg"
+			},
+			{
+				"nome": "Pinguim-rei",
+                "comprimento": "85 – 95 cm",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Penguins_Edinburgh_Zoo_2004_SMC.jpg",
+				"peso": "9,3 – 17 kg"	
+			},
+			{
+				"nome": "Pinguim-das-galápagos",
+                "comprimento": "53 cm",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Galapagos_penguin_%28Spheniscus_mendiculus%29_-Isabela2.jpg",
+				"peso": "1,7 – 2,6 kg"
+			},
+			{
+				"nome": "Pinguim-azul",
+                "comprimento": "43 cm",
+                "image": "https://static.inaturalist.org/photos/85115528/large.jpg",
+				"peso": "1,5 kg"
+			}
+		]
+	},
+	{
+		"grupo": "Águias e gaviões",
+		"imagem": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bald_Eagle_Portrait.jpg",
+		"especies": [
+			{
+				"nome": "Águia-pesqueira",
+                "comprimento": "52 – 60 cm",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Osprey_mg_9605.jpg/175px-Osprey_mg_9605.jpg",
+				"peso": "1,4 kg"
+			},
+			{
+				"nome": "águia-solitária",
+                "comprimento": "65 a 75 centímetros",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Solitary_Eagle.jpg/280px-Solitary_Eagle.jpg",
+				"peso": "3kg"
+			},
+			{
+				"nome": "Gavião-tesoura",
+                "comprimento": "52 a 66 centímetros.",
+                "image": "https://s3.amazonaws.com/media.wikiaves.com.br/images/9423/3249965_d27d274495e26eb3eaa13eac37f0fbc4.jpg",
+				"peso": " 407 gramas"
+			},
+			{
+				"nome": "Gavião-pombo-pequeno",
+                "comprimento": "43 a 52 cm",
+                "image": "https://s3.amazonaws.com/media.wikiaves.com.br/images/726/627291_04199d5977ec234e0f616b99d9a1b099.jpg",
+				"peso": "2kg"
+			}
+		]
+	},
+	{
+		"grupo": "Falcões",
+		"imagem": "https://passaro.org/wp-content/uploads/2018/10/falcao.jpg",
+		"especies": [
+			{
+				"nome": "Falcão-americano",
+                "comprimento": "43 a 52 cm",
+                "image": "https://s3.amazonaws.com/media.wikiaves.com.br/images/396/693325_ca17b394bfbc24cc17bb4467ed093cc9.jpg",
+				"peso": "120 g"
+			},
+			{
+				"nome": "Carcará",
+                "comprimento": "50 a 60 cm",
+                "image": "https://s3.amazonaws.com/media.wikiaves.com.br/images/726/627291_04199d5977ec234e0f616b99d9a1b099.jpg",
+				"peso": "834g"
+			},
+			{
+				"nome": "Carrapateiro",
+                "comprimento": "36 e 45 cm",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrJsMoWvgaa4ZiuPXqaE_oKZ0novEukqC6ZJFeohlgg&s",
+				"peso": "277g a 335g"
+			},
+			{
+				"nome": "Gavião-pombo-pequeno",
+                "comprimento": "60 cm",
+                "image": "data:image/jpeg;base64,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",
+				"peso": "340 g "
+			}
+		]
+	},
+	{
+		"grupo": "pombo",
+		"imagem": "data:image/jpeg;base64,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",
+		"especies": [
+			{
+				"nome": "Pombo-comum",
+                "comprimento": "30 cm",
+                "image": "data:image/jpeg;base64,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",
+				"peso": "240 – 380 g "
+			},
+			{
+				"nome": "Pombo-prateado",
+                "comprimento": "36 cm",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/ColumbaGriseaKeulemans.jpg/280px-ColumbaGriseaKeulemans.jpg",
+				"peso": "350g "
+			},
+			{
+				"nome": "Pombo-de-cauda-anelada",
+                "comprimento": "30 cm",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2nXyqx2a5ocL-uebkcnfbI_JyP5VUwAjwI5lMiT1&s",
+				"peso": "200 g "
+			},
+			{
+				"nome": "Gavião-pombo-pequeno",
+                "comprimento": "60 cm",
+                "image": "data:image/jpeg;base64,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",
+				"peso": "340 g"
+			}
+		]
+	},
+	{
+		"grupo": "E",
+		"cor": "#00968D",
+		"selecoes": [
+			{
+				"selecao": "Estados Unidos",
+				"sigla": "EUA",
+				"imagem": "eua"
+			},
+			{
+				"selecao": "Vietnã",
+				"sigla": "VIE",
+				"imagem": "vie"
+			},
+			{
+				"selecao": "Holanda",
+				"sigla": "HOL",
+				"imagem": "hol"
+			},
+			{
+				"selecao": "Portugal",
+				"sigla": "POR",
+				"imagem": "por"
+			}
+		]
+	},
+	{
+		"grupo": "F",
+		"cor": "#78D64B",
+		"selecoes": [
+			{
+				"selecao": "França",
+				"sigla": "FRA",
+				"imagem": "fra"
+			},
+			{
+				"selecao": "Jamaica",
+				"sigla": "JAM",
+				"imagem": "jam"
+			},
+			{
+				"selecao": "Brasil",
+				"sigla": "BRA",
+				"imagem": "bra"
+			},
+			{
+				"selecao": "Panamá",
+				"sigla": "PAN",
+				"imagem": "pan"
+			}
+		]
+	},
+	{
+		"grupo": "G",
+		"cor": "#FFA02F",
+		"selecoes": [
+			{
+				"selecao": "Suécia",
+				"sigla": "SUE",
+				"imagem": "sue"
+			},
+			{
+				"selecao": "África do Sul",
+				"sigla": "AFS",
+				"imagem": "afs"
+			},
+			{
+				"selecao": "Itália",
+				"sigla": "ITA",
+				"imagem": "ita"
+			},
+			{
+				"selecao": "Argentina",
+				"sigla": "ARG",
+				"imagem": "arg"
+			}
+		]
+	},
+	{
+		"grupo": "H",
+		"cor": "#FE5211",
+		"selecoes": [
+			{
+				"selecao": "Alemanha",
+				"sigla": "ALE",
+				"imagem": "ale"
+			},
+			{
+				"selecao": "Marrocos",
+				"sigla": "MAR",
+				"imagem": "mar"
+			},
+			{
+				"selecao": "Colômbia",
+				"sigla": "COL",
+				"imagem": "col"
+			},
+			{
+				"selecao": "Coreia do Sul",
+				"sigla": "CDS",
+				"imagem": "cds"
+			}
+		]
+	}
+]
